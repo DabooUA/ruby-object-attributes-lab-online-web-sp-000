@@ -13,7 +13,7 @@ class Dog
   end
 
   def breed
-    @new_breed_type = breed
+    @breed
 end
 
 end
